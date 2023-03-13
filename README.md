@@ -7,7 +7,7 @@ customization and update in the code
 * Os surdos enfrentam bastante dificuldade para ler, escrever e se comunicar na língua oral do seu país. Dessa forma, para tentar reduzir esses problemas, o objetivo da ferramenta computacional de código aberto, denominada VLibras Widget, consiste em traduzir conteúdos do Português Brasileiro para a Língua Brasileira de Sinais (LIBRAS), tornando websites acessíveis a pessoas surdas. *
 
 ### Instalação:
-npm install -S @djpfs/react-vlibras
+npm install -S react-vlibras
 
 ### Como usar:
 
